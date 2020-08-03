@@ -12,3 +12,5 @@ moviepy -- video editing
 gizeh -- vector graphics
 
 mutagen -- handle audio metadata
+
+![alt text](https://github.com/emanuel-mazilu/video-maker/blob/master/screenshoot.png)
