@@ -1,0 +1,14 @@
+pyyaml
+colorama
+google-api-python-client
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
+gtts
+googletrans
+gizeh
+mutagen
+moviepy
+pycairo
